@@ -1,7 +1,4 @@
-# DJANGO SEED
+# Splendored Music
 
-Starting point for Django, Django Rest Framework, Angular, Webpack and Gulp projects.
+Website for rock band The Many-Splendored Things.
 
-See the using-django-seed.md in the docs for usage.
-
-**Replace the contents of this doc with a README for your project**

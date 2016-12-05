@@ -1,8 +1,8 @@
 {
-  "name": "",
+  "name": "SplendoredMusic",
   "version": "1.0.0",
-  "description": "",
-  "repository": "",
+  "description": "Website for The Many-Splendored Things",
+  "repository": "https://github.com/JasonMize/splendored-music",
   "engines": {
     "node": "6.8.1"
   },
@@ -12,7 +12,7 @@
     "eslint": "eslint",
     "postinstall": "gulp webpack"
   },
-  "author": "",
+  "author": "Jason Mize",
   "license": "ISC",
   "devDependencies": {
   },
